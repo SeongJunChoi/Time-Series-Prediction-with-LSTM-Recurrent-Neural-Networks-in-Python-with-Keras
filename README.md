@@ -1,4 +1,5 @@
-Derived from http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+Derived from: -  -http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+-https://github.com/tgjeon
 
 # TensorFlow Tutorial for Time Series Prediction
 

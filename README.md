@@ -41,3 +41,4 @@ cuda (to run examples on GPU)
 - ```tf:dnn``` is deprecated and will be removed after 2016-08-01. Use ```tf.contrib.layers.stack``` instead.
 
 Now I am working on modifying previous source code for tensorflow ver. 0.10.0rc0.
+# Time-Series-Prediction-with-LSTM-Recurrent-Neural-Networks-in-Python-with-Keras

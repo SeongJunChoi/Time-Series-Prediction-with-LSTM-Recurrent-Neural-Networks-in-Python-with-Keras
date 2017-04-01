@@ -28,6 +28,8 @@ TensorFlow (r0.9)
 numpy (1.11.1)
 pandas (0.16.2)
 cuda (to run examples on GPU)
+sudo apt install python3-tk (for tcl/tk)
+sudo apt install tk
 ```
 
 #### Dataset
